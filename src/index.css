@@ -1,0 +1,11 @@
+.header {
+  margin: 50px;
+  font-family: sans-serif;
+}
+.square__red, .square__blue {
+  margin: 0 50px;
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+}
+
